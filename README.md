@@ -6,7 +6,9 @@
 
 ###
 
-<img align="right" height="300" src="https://64.media.tumblr.com/329cdcf4801a710b7a22525259d33fad/d251a0022b551ebe-e0/s1280x1920/35602969efda4a41bd5390b149ce2089b500cf83.gifv"  />
+<div align="center">
+  <img height="300" src="https://i.redd.it/90ekftm1ltgy.gif"  />
+</div>
 
 ###
 
